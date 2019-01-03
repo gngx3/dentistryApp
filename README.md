@@ -1,8 +1,6 @@
-<html>
-<head>
-  </head>
+
   
-  <body>
+  
 # dentistryApp
 Interdisciplinary Dental Clinic Project
 
@@ -12,9 +10,8 @@ Tandon Integrated Digital Media
 Steinhardt OT
 Tisch ITP
 
- <h1>Project Lead</h1>
- 
- <p1>
+ Project Lead
+
   RONALD W. KOSINSKI, DMD
 Clinical Associate Professor
 Director of Pediatric Sedation and Anesthesia
@@ -52,7 +49,5 @@ Lexie Rosenberg: Occupational therapist at Manhattan Childrens Center; Clinical 
   
   
   
-  
-  </body>
-  
-  </html>
+ 
+
